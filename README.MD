@@ -1,7 +1,6 @@
 # Basic Algorithms and Data Structures in Java
 
-This repo contains a few basic Data structure and algorithm solutions, all implemented in Java.
-_Purpose for those who are too stuck studying IT. If you are lazy, leave it to me =))_
+This repo contains a few basic Data structure and algorithm solutions, all implemented in Java (for educational purposes).
 
 Kho repo này chứa một số giải phảp cấu trúc trúc dữ liệu và giải thuật cơ bản, tất cả được triển khai bằng Java.
 _Mục đích dành cho những ai đang học IT quá bế tắc. Nếu bạn lười, hãy để nó cho tôi =))_
