@@ -3,7 +3,7 @@
 This repo contains a few basic Data structure and algorithm solutions, all implemented in Java (for educational purposes).
 
 Kho repo này chứa một số giải phảp cấu trúc trúc dữ liệu và giải thuật cơ bản, tất cả được triển khai bằng Java.
-_Mục đích dành cho những ai đang học IT quá bế tắc. Nếu bạn lười, hãy để nó cho tôi =))_
+_Mục đích dành cho những ai đang học mà quá bế tắc =))_
 
 ## Contents
 1. [Arrays List (mảng động)](/DynamicArray)
